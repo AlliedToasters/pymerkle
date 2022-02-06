@@ -1,5 +1,8 @@
 # pymerkle: Merkle-tree cryptographic library for generation and validation of Proofs
 
+## ETH fork
+trying to make this work for ethereum smart contracts.
+
 [![Build Status](https://travis-ci.com/FoteinosMerg/pymerkle.svg?branch=master)](https://travis-ci.com/FoteinosMerg/pymerkle)
 [![codecov](https://codecov.io/gh/FoteinosMerg/pymerkle/branch/master/graph/badge.svg)](https://codecov.io/gh/FoteinosMerg/pymerkle)
 [![Docs Status](https://readthedocs.org/projects/pymerkle/badge/?version=latest)](http://pymerkle.readthedocs.org)
